@@ -2,6 +2,8 @@
 
 Turn Alexa into unhinged mode with OpenAI integration!
 
+![image](https://github.com/user-attachments/assets/b7e0f6f6-6e30-417d-ba2d-79c53f5babef)
+
 ---
 
 ## 🧰 Prerequisites
